@@ -64,11 +64,13 @@ This project illustrates the importance of securing systems against various form
 ## Screenshots
 
 ### 1. Virtual Environment Setup
-![Virtual Setup](![image](https://github.com/user-attachments/assets/89245ce3-1faf-485f-9c2f-ac9055fe17e0)
+![Virtual Setup]
+(![image](https://github.com/user-attachments/assets/89245ce3-1faf-485f-9c2f-ac9055fe17e0)
 )
 
 ### 2. Nmap Network Scan
-![Nmap Scan](![image](https://github.com/user-attachments/assets/e82c4fb0-f0b0-4dbe-b9f6-f4990fbd851e)
+![Nmap Scan]
+(![image](https://github.com/user-attachments/assets/e82c4fb0-f0b0-4dbe-b9f6-f4990fbd851e)
 )
 
 ### 3. Reverse TCP Injection
@@ -76,9 +78,8 @@ This project illustrates the importance of securing systems against various form
 )
 
 ### 4. Phishing Attack
-![Phishing Attack](![image](https://github.com/user-attachments/assets/5f73b587-f1c6-41ac-bdd3-d84d66358ac1)
-(https://github.com/user-attachments/assets/422392d4-75c5-42fd-a08e-07050ef47083)
-
+![Phishing Attack]
+(![image](https://github.com/user-attachments/assets/5f73b587-f1c6-41ac-bdd3-d84d66358ac1)
 )
 
 ## Team Members
