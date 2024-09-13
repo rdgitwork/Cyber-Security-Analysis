@@ -77,7 +77,7 @@ This project illustrates the importance of securing systems against various form
 
 ### 4. Phishing Attack
 ![Phishing Attack](![image](https://github.com/user-attachments/assets/5f73b587-f1c6-41ac-bdd3-d84d66358ac1)
-![image](https://github.com/user-attachments/assets/422392d4-75c5-42fd-a08e-07050ef47083)
+(https://github.com/user-attachments/assets/422392d4-75c5-42fd-a08e-07050ef47083)
 
 )
 
